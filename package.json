@@ -1,6 +1,6 @@
 {
   "name": "axiosflow-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "axiosflow-api is a server-side library that makes building TypeScript APIs significantly easier and more efficient. It provides a structured way to define routes, integrate middleware, and dynamically generate API schemas. This cohesive approach works seamlessly with the axiosflow CLI library on the frontend, allowing you to quickly generate type-safe API function calls, leading to improved code consistency and faster development cycles.",
   "keywords": [
     "typescript",

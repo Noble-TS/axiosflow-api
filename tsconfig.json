@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", 
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "esModuleInterop": true, 
+    "allowSyntheticDefaultImports": true,
+    "resolveJsonModule": true, 
+    "strict": true, 
+    "skipLibCheck": false, // Consider disabling this for production 
+    "forceConsistentCasingInFileNames": true, 
+    "outDir": "./dist",
+    "declaration": true,
+    "sourceMap": true,
+    "lib": ["ES2020", "DOM"]
+  },
+  "include": [
+    "src/**/*",
+    "package.json"
+  ],
+  "exclude": [
+    "node_modules", 
+    "dist"
+  ]
+}
